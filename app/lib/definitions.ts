@@ -1,5 +1,3 @@
-  // definitions.ts
-
   export class User {
     id: string;
     email: string;
